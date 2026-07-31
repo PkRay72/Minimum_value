@@ -4,7 +4,7 @@ package arrays;
 
 import org.w3c.dom.ls.LSOutput;
 
-public class minimum_value {
+public class Minimum_Value {
     static void main() {
         int[] arr={-6,8,14,-2,23,47,4,3,10};
         //int min=arr[0];
